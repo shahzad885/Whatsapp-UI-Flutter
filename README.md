@@ -1,6 +1,6 @@
 # whatsapp_ui
 
-A new Flutter project.
+This is just the UI of whatsapp app at beginner level
 
 ## Getting Started
 
